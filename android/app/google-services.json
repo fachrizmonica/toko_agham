@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827332257581",
+    "firebase_url": "https://inventaristoko-789b1.firebaseio.com",
+    "project_id": "inventaristoko-789b1",
+    "storage_bucket": "inventaristoko-789b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827332257581:android:81ebafa33ecfc4c27095a4",
+        "android_client_info": {
+          "package_name": "com.example.toko_agham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827332257581-1hfp1h8v4u85vaa1ti05ms5m4gi9j4ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfjz6cMNyOKvAlPis1kVj6GA45j9c7ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827332257581-1hfp1h8v4u85vaa1ti05ms5m4gi9j4ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
